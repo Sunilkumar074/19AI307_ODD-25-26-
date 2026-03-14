@@ -28,8 +28,8 @@ To develop a Java program using inheritance where a base class Customer stores c
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: Magesh.N
-RegisterNumber:  212222040091
+Developed by: SUNIL KUMAR P.B.
+RegisterNumber:  212223040213
 */
 ```
 
